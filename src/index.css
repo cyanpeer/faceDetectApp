@@ -1,0 +1,6 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Courier New", sans-serif;
+  background-image: linear-gradient(to right, #1574dc, #00a6ee, #00cccd, #66e89a, #eef881 100%);
+}
